@@ -24,4 +24,4 @@ const printf = (color = 'default', informations = "") => {
         console.log(`\x1b[3${colors_options[color]}m`,informations)
     }
 }
-module.exports = printf
+module.exports = {printf}
