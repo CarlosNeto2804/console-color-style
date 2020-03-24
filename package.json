@@ -10,5 +10,10 @@
     "java script color util console"
   ],
   "author": "CarlosNeto2804",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/CarlosNeto2804/console-color-style/issues"
+  },
+  "homepage": "https://github.com/CarlosNeto2804/console-color-style#readme"
 }
