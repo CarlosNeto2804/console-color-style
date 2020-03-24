@@ -1,0 +1,14 @@
+{
+  "name": "console-color-style",
+  "version": "1.0.0",
+  "description": "Modulo para colorir a saída do console",
+  "main": "index.js",
+  "keywords": [
+    "color console",
+    "style console.log", 
+    "js console colors",
+    "java script color util console"
+  ],
+  "author": "CarlosNeto2804",
+  "license": "MIT"
+}
