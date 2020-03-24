@@ -12,7 +12,7 @@ $ npm install console-color-style
 $ yarn add console-color-style
 ```
 ### Exemple
-You must import the package and use the printf method 
+You must import the package and use the **printf** method 
 ```js
 const { printf } = require('console-color-style');
 // 1) the function receives two parameters
