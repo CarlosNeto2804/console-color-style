@@ -21,7 +21,7 @@ const printf = (color = 'default', informations = "") => {
         console.log(`\x1b[31m`, `[ERROR] ---->  THE '${color}' COLOR NOT FOUND`);
         console.log(`\x1b[34m`, `[INFO]  ---->  SUPPORTED COLORS: 'black', 'red', 'green', 'yellow', 'blue', 'magneta', 'cyan','white'`);
     }else{
-        console.log(`\x1b[3${colors_options[color]}m`,informations)
+        console.log(`\x1b[3${colors_options[color]}m`,informations,`\x1b[39m`)
     }
 }
 module.exports = {printf}
