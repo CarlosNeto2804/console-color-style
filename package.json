@@ -1,6 +1,6 @@
 {
   "name": "console-color-style",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modulo para colorir a saída do console",
   "main": "index.js",
   "keywords": [
