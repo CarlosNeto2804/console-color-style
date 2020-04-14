@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Modulo para colorir a saída do console",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "color console",
     "style console.log", 
